@@ -70,7 +70,7 @@ Sistem digital ini dibuat untuk menyelesaikan kebutuhan utama:
 - **Modal Sukses & Opsi Tambah/Ubah**: Pelanggan dapat menambah menu ke pesanan yang sama atau membuat pesanan baru.
 
 ### 4.2 Halaman Admin & Kasir (`admin.html` / `/admin`)
-- **Proteksi Akses**: Layar kunci PIN kasir aman (konfigurasi di `CONFIG.kasirPin = '9900'`).
+- **Proteksi Akses**: Layar kunci PIN kasir aman (konfigurasi di `CONFIG.kasirPin`, diisi lewat `KASIR_PIN` saat build).
 - **Topbar Terpadu**: Brand mark dua baris + Navigasi 3 Tab di sisi kanan (POS, Pesanan Masuk, Riwayat) + Tombol Toggle Tema + Tombol Logout Ikon Sederhana.
 - **3 Tab Navigasi Utama**:
   1. `🛒 Kasir (POS)`: Konsol POS modern dengan filter kategori chip lengkap, pencarian cepat, input prefix `Rp`, segmented tab bayar (`💵 Tunai` / `📱 QRIS`), preset uang cepat (`10k`–`100k`), kalkulasi kembalian otomatis, dan opsi pencatatan piutang/kasbon.

@@ -18,7 +18,7 @@ Pelanggan dapat langsung memesan makanan & minuman dari katalog digital mandiri,
 | Akses Pengguna | Tautan Langsung | Keterangan |
 |---|---|---|
 | 📱 **Pelanggan (Order)** | <a href="https://zzdree.github.io/ciremai-cashier/order" target="_blank" rel="noopener noreferrer"><b>zzdree.github.io/ciremai-cashier/order</b> ↗</a> | Katalog menu 8 kategori, keranjang belanja interaktif, opsi makan di tempat/bungkus, catatan khusus, dan nomor antrean `#N`. |
-| ⚙️ **Pengelola & Kasir (Admin)** | <a href="https://zzdree.github.io/ciremai-cashier/admin" target="_blank" rel="noopener noreferrer"><b>zzdree.github.io/ciremai-cashier/admin</b> ↗</a> | Dashboard POS Kasir, antrean live pesanan auto-refresh 4 detik, cetak struk termal 80mm / A4, dan laporan omzet harian *(PIN: `9900`)*. |
+| ⚙️ **Pengelola & Kasir (Admin)** | <a href="https://zzdree.github.io/ciremai-cashier/admin" target="_blank" rel="noopener noreferrer"><b>zzdree.github.io/ciremai-cashier/admin</b> ↗</a> | Dashboard POS Kasir, antrean live pesanan auto-refresh 4 detik, cetak struk termal 80mm / A4, dan laporan omzet harian *(PIN diatur lewat `KASIR_PIN`)*. |
 
 ---
 
