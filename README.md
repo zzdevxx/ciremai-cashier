@@ -73,7 +73,7 @@ ciremai-cashier/
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/zzdree/ciremai-cashier.git
+git clone https://gitlab.com/zzdree/ciremai-cashier.git
 cd ciremai-cashier
 ```
 
