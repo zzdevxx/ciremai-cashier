@@ -6,7 +6,7 @@
 | **Lokasi bisnis** | [RM. Ciremai UNNES](https://maps.app.goo.gl/Dzp9H1tu6BkAkfSV8) — Jl. Kalimasada, Sekaran, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50229 |
 | **Folder proyek** | `C:\ANDREAS\ciremai-cashier` |
 | **Deployment target** | GitHub Pages (static hosting gratis) |
-| **URL Produksi** | [Order Pelanggan](https://zzdree.github.io/ciremai-cashier/order) · [Admin & POS Kasir](https://zzdree.github.io/ciremai-cashier/admin) |
+| **URL Produksi** | [Order Pelanggan](https://zzdevxx.github.io/ciremai-cashier/order) · [Admin & POS Kasir](https://zzdevxx.github.io/ciremai-cashier/admin) |
 | **Versi dokumen** | 1.3 — 23 Agustus 2026 |
 
 ---

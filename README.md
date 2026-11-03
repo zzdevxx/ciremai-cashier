@@ -1,6 +1,6 @@
 # 🍽️ RM. Ciremai — Cashier POS & Real-Time Self-Ordering Web App
 
-[![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-brightgreen?logo=github)](https://zzdree.github.io/ciremai-cashier/order)
+[![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-brightgreen?logo=github)](https://zzdevxx.github.io/ciremai-cashier/order)
 [![Theme](https://img.shields.io/badge/Theme-Light%20%26%20Dark%20(Default%20Light)-blue)](DESIGN.md)
 [![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%20AAA%20(16:1)-success)](DESIGN.md)
 [![Database](https://img.shields.io/badge/Database-Supabase%20PostgreSQL-3ECF8E?logo=supabase)](https://supabase.com)
@@ -17,8 +17,8 @@ Pelanggan dapat langsung memesan makanan & minuman dari katalog digital mandiri,
 
 | Akses Pengguna | Tautan Langsung | Keterangan |
 |---|---|---|
-| 📱 **Pelanggan (Order)** | <a href="https://zzdree.github.io/ciremai-cashier/order" target="_blank" rel="noopener noreferrer"><b>zzdree.github.io/ciremai-cashier/order</b> ↗</a> | Katalog menu 8 kategori, keranjang belanja interaktif, opsi makan di tempat/bungkus, catatan khusus, dan nomor antrean `#N`. |
-| ⚙️ **Pengelola & Kasir (Admin)** | <a href="https://zzdree.github.io/ciremai-cashier/admin" target="_blank" rel="noopener noreferrer"><b>zzdree.github.io/ciremai-cashier/admin</b> ↗</a> | Dashboard POS Kasir, antrean live pesanan auto-refresh 4 detik, cetak struk termal 80mm / A4, dan laporan omzet harian *(PIN diatur lewat `KASIR_PIN`)*. |
+| 📱 **Pelanggan (Order)** | <a href="https://zzdevxx.github.io/ciremai-cashier/order" target="_blank" rel="noopener noreferrer"><b>zzdevxx.github.io/ciremai-cashier/order</b> ↗</a> | Katalog menu 8 kategori, keranjang belanja interaktif, opsi makan di tempat/bungkus, catatan khusus, dan nomor antrean `#N`. |
+| ⚙️ **Pengelola & Kasir (Admin)** | <a href="https://zzdevxx.github.io/ciremai-cashier/admin" target="_blank" rel="noopener noreferrer"><b>zzdevxx.github.io/ciremai-cashier/admin</b> ↗</a> | Dashboard POS Kasir, antrean live pesanan auto-refresh 4 detik, cetak struk termal 80mm / A4, dan laporan omzet harian *(PIN diatur lewat `KASIR_PIN`)*. |
 
 ---
 
@@ -73,7 +73,7 @@ ciremai-cashier/
 
 ### 1. Clone Repositori
 ```bash
-git clone https://gitlab.com/zzdree/ciremai-cashier.git
+git clone https://gitlab.com/zzdevxx/ciremai-cashier.git
 cd ciremai-cashier
 ```
 
